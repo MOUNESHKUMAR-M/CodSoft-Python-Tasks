@@ -1,1 +1,1 @@
-# CodeSoft-Python-Tasks
+# CodSoft-Python-Tasks
